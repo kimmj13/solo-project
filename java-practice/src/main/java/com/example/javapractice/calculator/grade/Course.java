@@ -1,4 +1,4 @@
-package com.example.javapractice.grade_calculator;
+package com.example.javapractice.calculator.grade;
 
 public class Course {
 

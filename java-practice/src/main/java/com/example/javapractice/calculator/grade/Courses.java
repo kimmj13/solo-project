@@ -1,4 +1,4 @@
-package com.example.javapractice.grade_calculator;
+package com.example.javapractice.calculator.grade;
 
 import java.util.List;
 

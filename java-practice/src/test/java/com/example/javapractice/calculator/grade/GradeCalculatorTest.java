@@ -1,5 +1,7 @@
-package com.example.javapractice.grade_calculator;
+package com.example.javapractice.calculator.grade;
 
+import com.example.javapractice.calculator.grade.Course;
+import com.example.javapractice.calculator.grade.GradeCalculator;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 

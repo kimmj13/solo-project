@@ -1,4 +1,4 @@
-package com.example.javapractice.calculator;
+package com.example.javapractice.calculator.arithmetic;
 
 import com.example.javapractice.calculator.arithmetic.calculate.PositiveNumber;
 import org.junit.jupiter.params.ParameterizedTest;
