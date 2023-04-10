@@ -1,4 +1,4 @@
-package com.example.javapractice;
+package com.example.javapractice.calculator;
 
 import com.example.javapractice.calculator.arithmetic.Calculator;
 import com.example.javapractice.calculator.arithmetic.calculate.PositiveNumber;
